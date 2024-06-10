@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fabian
-- 💻 I’m currently learning about Data Science, AI and business Analytics
+- 💻 I’m currently learning about Data Science, AI and Business Analytics
 - 📫 How to reach me: www.linkedin.com/in/fabianmelchor
 
 <!---
