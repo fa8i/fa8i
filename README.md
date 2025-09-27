@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Fabian
-- 💻 I’m currently working as AI Engineer @ Cognizant
-- 📫 How to reach me: www.linkedin.com/in/fabianmelchor
+- 💻 I’m currently working as Data Scientist @ CaixaBank Tech
+- 📫 Reach me: www.linkedin.com/in/fabianmelchor
